@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I’m an engineering specialised in Agrogeomatic, 
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abir-ben-abdelghaffar-29a390235)
+E-mail : abirghaffari2001@gmail.com
 
 ---
 
