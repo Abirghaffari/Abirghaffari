@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abir Ben Abdelghaffar!
 
 Welcome to my GitHub! I’m Abir Ben Abdelghaffar, an engineer specialized in Agrogeomatics, graduated from INP-ENSAT and recently earned a Master’s degree in Geomatic Sciences for Environment and Territory Management from the University of Toulouse Jean Jaurès (UT2J). I’m passionate about leveraging GIS technologies to support sustainable agriculture and environmental resource management. My work focuses on applying spatial analysis, data science, and digital tools to drive innovation in agro-environmental systems.
-Feel free to explore my repositories showcasing projects in cartography, data visualization, and precision agriculture — and don’t hesitate to connect if you’d like to collaborate or discuss GIS applications!
+
 
 ## 🚀 About Me
 - 🎓 Education: Engineering in Agrogeomatics and Master’s in SIGMA
@@ -10,7 +10,7 @@ Feel free to explore my repositories showcasing projects in cartography, data vi
 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, R
-- **Development Tools**: Visual Studio
+- **Development Tools**: Visual Studio, Jupyter Notbook, Onyxia 
 - **GIS Software**: QGIS, Arcgis Pro, Arcgis Enligne 
 
 ## 📫 Contact Me
